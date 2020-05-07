@@ -1,3 +1,5 @@
+#include "reads.h"
+
 char read_character()
 {
   char input;
